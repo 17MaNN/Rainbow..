@@ -12,3 +12,4 @@ __pycache__/
 # Virtual environment
 rvenv/
 venv/
+rmac/

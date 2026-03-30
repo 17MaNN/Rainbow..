@@ -1,0 +1,35 @@
+
+EDA KEY INSIGHTS - RAINBOW PREDICTION
+================================================================================
+
+1. GEOGRAPHICAL INSIGHTS:
+   - Top City: Port_Blair with 3023 favorable events
+   - Cities with highest percentage: Port_Blair, Kavaratti, Puducherry
+   - Total cities with favorable conditions: 34
+
+2. TEMPORAL INSIGHTS:
+   - Best Season: Monsoon (avg score: 8.07)
+   - Best Month: Month 9 with 8104 events
+   - Peak Hour: 11:00 with 12695 events
+   - Early Morning (5-9 AM): 11,466 events
+   - Late Afternoon (16-19): 0 events
+
+3. WEATHER CONDITIONS:
+   - Average Precipitation: 2.89 mm/day
+   - Average Temperature: 25.01°C
+   - Average Humidity: 74.11%
+   - Average Solar Altitude: 23.36°
+   - Average Wind Speed: 2.66 m/s
+
+4. RAINBOW SCORE DISTRIBUTION:
+   - Score 8: 41,666 events
+   - Score 9: 1,175 events
+   - Score 10: 5,569 events
+
+5. LABELING STRATEGY RECOMMENDATIONS:
+   - Focus on top 5 cities: Port_Blair, Kavaratti, Puducherry, Thiruvananthapuram, Gangtok
+   - Target months: Month 9, Month 8, Month 10
+   - Target hours: 11:00, 12:00, 10:00
+   - This covers 27.5% of all favorable events
+
+================================================================================
