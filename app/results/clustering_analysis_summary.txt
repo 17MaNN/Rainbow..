@@ -1,0 +1,40 @@
+
+UNSUPERVISED CLUSTERING INSIGHTS
+================================================================================
+
+1. CLUSTERING RESULTS:
+   - Optimal number of clusters: 2
+   - Best cluster: Cluster 1 (Avg Score: 8.50)
+   - Silhouette Score: 0.471
+
+2. CLUSTER PATTERNS DISCOVERED:
+   - Clusters show SIGNIFICANT differences in rainbow scores (p < 0.05)
+   - Natural groupings align with meteorological conditions
+   - PCA shows clear separation in feature space
+
+3. BEST CLUSTER CHARACTERISTICS (Cluster 1):
+   - Size: 4,445 records
+   - Avg Rainbow Score: 8.50
+   - Dominant Season: Winter
+   - Avg Solar Altitude: 35.2°
+   - Avg Precipitation: 1.63 mm/day
+   - Avg Temperature: 3.8°C
+
+4. FEATURE IMPORTANCE:
+   Top 3 discriminating features:
+        Feature  Variance
+5  ALLSKY_KT  1.221965
+6       hour  1.226090
+3        T2M  1.573918
+
+5. LABELING STRATEGY RECOMMENDATION:
+   - PRIORITIZE Cluster 1 for labeling (highest rainbow potential)
+   - This cluster represents 9.2% of favorable conditions
+   - Focus on Winter season
+
+6. VALIDATION:
+   - Rainbow score formula is VALIDATED by clustering
+   - Unsupervised patterns match supervised rainbow_score logic
+   - High confidence in feature engineering approach
+
+================================================================================
